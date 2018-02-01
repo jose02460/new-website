@@ -1,0 +1,22 @@
+.date {
+  font-weight: bold;
+  font-size: 100px;
+}
+.hobbies {
+  font-weight: bold;
+  font-size: 45px;
+}
+.activities {
+  font-weight: bold;
+  font-size: 30px;
+}
+.nike{
+ width: 350px;
+ height: 300px;
+ float: right;
+}
+.nike2{
+  width: 350px;
+  height: 300px;
+  float: left;
+}
